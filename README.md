@@ -1,5 +1,5 @@
-# 💫 About Me:
-👷‍♂️ Currently working on: evolutionary algorithms to squash bias in NLP models<br><br>🤝 Looking to collaborate on: ethical AI development & GenAI in biology / medicine<br><br>🆘 Looking for help with: using AI for biological research—think plastic‑degrading microbes & antimicrobial‑resistance busters<br><br>🎓 Currently learning: Advanced Python for AI (TensorFlow/PyTorch), genomics/NLP feature engineering, chatbots & GenAI<br><br>💬 Ask me about: AI for plastic biodegradation, microbial feature pipelines, or bias‑busting in biomedical NLP
+# About Me:
+👷‍♂️ **Currently working on:** Evolutionary algorithms to reduce bias in NLP models<br><br>🤝 **Looking to collaborate on:** Ethical AI development & GenAI in biology / medicine<br><br>🆘 **Looking for help with:** Using AI for biological research—think plastic‑degrading microbes & antimicrobial‑resistance busters<br><br>🎓 **Currently learning:** Advanced Python for AI (TensorFlow/PyTorch), genomics/NLP feature engineering, chatbots & GenAI<br><br>💬 **Ask me about:** AI for plastic biodegradation, microbial feature pipelines, or bias‑busting in biomedical NLP
 
 
 ## 🌐 Socials:
